@@ -111,7 +111,7 @@ The optimized files will be in the `dist` folder.
 
 ## 🌐 Demo
 
-🔗 **Live Demo**: [Coming Soon]
+🔗 **Live Demo**: [Vercel](https://homework-51-seven.vercel.app)
 
 ## 👨‍💻 Author
 
